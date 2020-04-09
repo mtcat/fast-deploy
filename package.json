@@ -1,0 +1,17 @@
+{
+  "name": "fast-deploy",
+  "version": "0.0.1",
+  "description": "A quick deploy cli tool",
+  "bin": {
+    "fast-deploy": "./bin/index.js"
+  },
+  "author": "mtcat",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cross-spawn": "^7.0.1",
+    "moment": "^2.24.0",
+    "read-yaml-file": "^2.0.0",
+    "swig-templates": "^2.0.3"
+  }
+}
