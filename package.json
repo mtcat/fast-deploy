@@ -1,5 +1,5 @@
 {
-  "name": "fast-deploy",
+  "name": "@mtcat/fast-deploy",
   "version": "0.0.1",
   "description": "A quick deploy cli tool",
   "bin": {
